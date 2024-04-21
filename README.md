@@ -1,5 +1,6 @@
-
 # Iris Flower Classification Project
+
+<img src="https://miro.medium.com/max/875/1*7bnLKsChXq94QjtAiRn40w.png">
 
 # Overview
 This project aims to classify Iris flowers into different species using machine learning algorithms. Leveraging the well-known Iris dataset, the project demonstrates the fundamental concepts of classification in a simple and understandable manner, making it accessible to machine learning beginners.
