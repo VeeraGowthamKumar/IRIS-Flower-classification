@@ -3,7 +3,7 @@
 <img src="https://miro.medium.com/max/875/1*7bnLKsChXq94QjtAiRn40w.png">
 
 # Overview
-This project aims to classify Iris flowers into different species using machine learning algorithms. Leveraging the well-known Iris dataset, the project demonstrates the fundamental concepts of classification in a simple and understandable manner, making it accessible to machine learning beginners.
+This project aims to classify Iris flowers into different species using machine learning algorithms. Leveraging the well-known Iris dataset, the project demonstrates the fundamental concepts of classification simply and understandably, making it accessible to machine learning beginners.
 
 # Data Exploration and Preprocessing
 The project begins with loading and exploring the Iris dataset to understand its structure and characteristics. Through visualization techniques such as histograms and box plots, the distribution of features is examined, and any anomalies or missing values are addressed to ensure the quality of the data.
@@ -18,6 +18,7 @@ Several machine learning algorithms, including Logistic Regression, K-Nearest Ne
 The performance of each model is assessed through accuracy, precision, recall, and confusion matrix analysis. These metrics offer valuable insights into the strengths and weaknesses of each model, helping in the selection of the most suitable algorithm for the task.
 
 # Conclusion
-The Iris Flower Classification project offers an accessible introduction to machine learning classification techniques, making it ideal for beginners in the field. By providing clear explanations and simple examples, the project aims to demystify the concepts of machine learning and empower newcomers to explore further.
+The Iris Flower Classification project offers an accessible introduction to machine-learning classification techniques, making it ideal for beginners in the field. By providing clear explanations and simple examples, the project aims to demystify the concepts of machine learning and empower newcomers to explore further.
 
+This project is focused on achieving accuracy and making predictions within the Iris project using the Iris Dataset.
 PS: Please do not forget to drop a star if you like it!
